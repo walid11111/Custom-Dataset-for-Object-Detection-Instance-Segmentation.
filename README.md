@@ -1,9 +1,9 @@
-Custom Human Detection – Object Detection & Instance Segmentation with YOLOv11
-📌 Overview
+# Custom Human Detection – Object Detection & Instance Segmentation with YOLOv11
+# 📌 Overview
 This project implements object detection and instance segmentation on a custom human detection dataset using the YOLOv11 model from Ultralytics.
 The model is trained, validated, and tested on a labeled dataset to accurately identify humans in images while also segmenting their shapes.
 
-✨ Features
+ #✨ Features
 Custom dataset integration for human detection.
 
 YOLOv11n segmentation architecture for high performance.
@@ -14,7 +14,7 @@ Training, validation, and inference workflows.
 
 Visual output for both bounding boxes and segmentation masks.
 
-📂 Dataset
+# 📂 Dataset
 The dataset is stored in YOLO format (images, labels, and data.yaml).
 
 It contains segmentation labels for human objects.
